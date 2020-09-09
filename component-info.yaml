@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: abcd
+  description: asdas
+  annotations:
+    github.com/project-slug: timja-org/tester
+    backstage.io/techdocs-ref: github:https://github.com/timja-org/tester
+spec:
+  type: service
+  lifecycle: experimental
+  owner: timja-org

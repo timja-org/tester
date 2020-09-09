@@ -1,0 +1,8 @@
+site_name: abcd
+site_description: asdas
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
